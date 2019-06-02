@@ -1,0 +1,16 @@
+{
+  "name": "gulp-combine-media",
+  "version": "0.1.0",
+  "description": "Combine css media queries that have the same media features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ibrahim Alhamad",
+  "license": "MIT",
+  "dependencies": {
+    "through2": "^2.0.3",
+    "plugin-error": "^1.0.1",
+    "css": "^2.2.4"
+  }
+}
